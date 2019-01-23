@@ -91,12 +91,4 @@ import edu.gatech.oad.antlab.pkg2.*;
         new AntLabMain().printOutMessage();
 
      }
-
-
-
-
-<<<<<<< HEAD
  }
-=======
- }
->>>>>>> efcaab1a91eb0e724d6009506205c0e7b42afb5e
